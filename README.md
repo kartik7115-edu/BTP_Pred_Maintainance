@@ -160,8 +160,8 @@ Predictive maintenance systems like this can be applied in:
 
 ## Author
 
-Sujai Shukla
-Kumthe Kartik Sanjay
+-Sujai Shukla
+-Kumthe Kartik Sanjay
 
 Machine Learning & AI Enthusiast
 
