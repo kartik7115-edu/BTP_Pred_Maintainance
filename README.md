@@ -103,21 +103,8 @@ Development Environment
 ---
 
 ## Repository Structure
-BTP_Pred_Maintainance
-│
-├── 1st_test
-│
-├── 2nd_test
-│
-├── 3rd_test
-│
-├── notebooks
-│
-├── merged_Dataset_BearingTest_2.csv
-│
-├── Readme Document for IMS Bearing Data.pdf
-│
-└── README.md
+<img width="508" height="557" alt="image" src="https://github.com/user-attachments/assets/77114307-4e9d-4d8f-9ddd-92110c278d3a" />
+
 
 
 ---
@@ -128,7 +115,6 @@ Clone the repository
 
 Install required libraries
 pip install numpy pandas scikit-learn tensorflow matplotlib seaborn
-
 Run the notebook
 
 ---
@@ -175,8 +161,8 @@ Predictive maintenance systems like this can be applied in:
 ## Author
 
 Sujai Shukla
+Kumthe Kartik Sanjay
 
-Mechanical Engineering  
 Machine Learning & AI Enthusiast
 
 ---
